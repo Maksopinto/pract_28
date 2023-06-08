@@ -26,6 +26,7 @@ public class Main {
         System.out.println("---------------------");
 
         while (true) {
+            System.out.println("Hripko maxim");
             System.out.println("Enter 'q' to quit or 'p' to view correct answers.");
 
             System.out.print("Enter your choice (a, b, c, d): ");
